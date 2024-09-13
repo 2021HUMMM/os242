@@ -2,7 +2,6 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # Logcode: https://osp4diss.clsm.org/ETC/logCodes.txt
 ZCZC W00 10 L03 GitHub related
-ZCZC W00 10 L10 Assignment #00
 ZCZC W00 10 L11 Assignment #01
 ZCZC W00 10 L12 Assignment #02
 ZCZC W00 10 L13 Assignment #03
@@ -18,5 +17,16 @@ ZCZC W01 90 L11 Assignment #01
 ZCZC W01 20 L12 Assignment #02
 ZCZC WO1 20 L03 GitHub and git related,including commit, push , pull
 ZCZC W01 30 L13 Assignment #03
-ZCZC W02 30 L14 Assignment #04
+ZCZC W01 30 L14 Assignment #04
 ZCZC W01 30 L15 Assignment #05
+ZCZC W02 15 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W02 30 L98 Else that is not related with this Operating Systems class.
+ZCZC W02 15 L11 Assignment #01
+ZCZC W02 15 L12 Assignment #02
+ZCZC W02 15 L13 Assignment #03
+ZCZC W02 15 L14 Assignment #04
+ZCZC W02 15 L15 Assignment #05
+ZCZC W02 15 L16 Assignment #06
+ZCZC W02 15 L17 Assignment #07
+ZCZC W02 15 L41 TXT/mylog.txt related.
+ZCZC 
