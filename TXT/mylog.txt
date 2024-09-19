@@ -30,3 +30,10 @@ ZCZC W02 15 L16 Assignment #06
 ZCZC W02 15 L17 Assignment #07
 ZCZC W02 15 L41 TXT/mylog.txt related.
 ZCZC W02 30 L32 YouTube: watching OS related topics, etc.
+ZCZC W02 90 L88 Workout/Sport/Exercise/ETC.
+ZCZC W03 20 L11 Assignment #01
+ZCZC W03 20 L12 Assignment #02
+ZCZC W03 20 L13 Assignment #03
+ZCZC W03 20 L14 Assignment #04
+ZCZC W03 20 L15 Assignment #05
+ZCZC W03 20 L41 TXT/mylog.txt related.

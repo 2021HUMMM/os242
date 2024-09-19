@@ -11,6 +11,8 @@ permalink: LINKS/
 * <https://rms46.vlsm.org/2/197.pdf> --- Soal latihan dari tahun-tahun lalu
 * <https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O> --- Playlist youtube dari Neso Academy mengenai operating system
 * <https://www.geeksforgeeks.org/operating-systems/> --- Laman dari geeksforgeeks mengenai operating system
+* <https://youtu.be/nvdnQX9UkMY?si=T2S70S0fD8OtcTih> --- VirtualBox basics
+* <https://www.lifewire.com/tar-file-2622386> --- What is a TAR file
 
 <br>
 <hr>
