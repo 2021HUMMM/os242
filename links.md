@@ -13,6 +13,9 @@ permalink: LINKS/
 * <https://www.geeksforgeeks.org/operating-systems/> --- Laman dari geeksforgeeks mengenai operating system
 * <https://youtu.be/nvdnQX9UkMY?si=T2S70S0fD8OtcTih> --- VirtualBox basics
 * <https://www.lifewire.com/tar-file-2622386> --- What is a TAR file
+* <https://scele.cs.ui.ac.id/mod/forum/discuss.php?d=52041> --- Forum untuk membenarkan language menjadi en_AU.UTF-8
+* <https://doit.vlsm.org/036.html> --- step-by-step membenarkan language menjadi en_AU.UTF-8
+* <https://youtu.be/uFj7mKNq1t0> --- Addressing, Shared Lib, & Pointer
 
 <br>
 <hr>

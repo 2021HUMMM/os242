@@ -37,3 +37,10 @@ ZCZC W03 20 L13 Assignment #03
 ZCZC W03 20 L14 Assignment #04
 ZCZC W03 20 L15 Assignment #05
 ZCZC W03 20 L41 TXT/mylog.txt related.
+ZCZC W04 90 L88 Workout/Sport/Exercise/ETC.
+ZCZC W04 20 L11 Assignment #01
+ZCZC W04 20 L12 Assignment #02
+ZCZC W04 20 L13 Assignment #03
+ZCZC W04 20 L14 Assignment #04
+ZCZC W04 20 L15 Assignment #05
+ZCZC W04 40 L70 Studying for other courses. 
