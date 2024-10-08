@@ -16,6 +16,7 @@ permalink: LINKS/
 * <https://scele.cs.ui.ac.id/mod/forum/discuss.php?d=52041> --- Forum untuk membenarkan language menjadi en_AU.UTF-8
 * <https://doit.vlsm.org/036.html> --- step-by-step membenarkan language menjadi en_AU.UTF-8
 * <https://youtu.be/uFj7mKNq1t0> --- Addressing, Shared Lib, & Pointer
-
+* <https://www.geeksforgeeks.org/scp-command-in-linux-with-examples/> --- cara menyalin file di linux dengan scp
+* <https://superuser.com/questions/66842/how-does-virtualboxs-memory-usage-work> --- cara kerja penggunaan memori pada VirtualBox
 <br>
 <hr>
