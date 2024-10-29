@@ -18,5 +18,7 @@ permalink: LINKS/
 * <https://youtu.be/uFj7mKNq1t0> --- Addressing, Shared Lib, & Pointer
 * <https://www.geeksforgeeks.org/scp-command-in-linux-with-examples/> --- cara menyalin file di linux dengan scp
 * <https://superuser.com/questions/66842/how-does-virtualboxs-memory-usage-work> --- cara kerja penggunaan memori pada VirtualBox
+* <https://www.youtube.com/watch?v=cex9XrZCU14&ab_channel=CodeVault> --- youtube video about fork
+* <https://www.youtube.com/watch?v=87SH2Cn0s9A&ab_channel=BroCode> --- youtube video about c programming language
 <br>
 <hr>
