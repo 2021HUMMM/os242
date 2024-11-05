@@ -20,5 +20,7 @@ permalink: LINKS/
 * <https://superuser.com/questions/66842/how-does-virtualboxs-memory-usage-work> --- cara kerja penggunaan memori pada VirtualBox
 * <https://www.youtube.com/watch?v=cex9XrZCU14&ab_channel=CodeVault> --- youtube video about fork
 * <https://www.youtube.com/watch?v=87SH2Cn0s9A&ab_channel=BroCode> --- youtube video about c programming language
+* <https://docusaurus.io/> --- Docusaurus web
+* <https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/> --- bash scripting tutorial
 <br>
 <hr>
