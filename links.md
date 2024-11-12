@@ -22,5 +22,7 @@ permalink: LINKS/
 * <https://www.youtube.com/watch?v=87SH2Cn0s9A&ab_channel=BroCode> --- youtube video about c programming language
 * <https://docusaurus.io/> --- Docusaurus web
 * <https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/> --- bash scripting tutorial
+* <https://www.youtube.com/playlist?list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3> --- lfs playlist on youtube by kernotex
+* <https://www.linuxfromscratch.org/lfs/view/12.2/index.html> --- tutorial for linux from scratch
 <br>
 <hr>
